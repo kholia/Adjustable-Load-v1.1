@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name TC4420CPA)(type Legacy)(uri ${KIPRJMOD}/libraries/TC4420CPA.lib)(options "")(descr ""))
+  (lib (name arduino_nano)(type Legacy)(uri ${KIPRJMOD}/libraries/arduino_nano.lib)(options "")(descr ""))
+  (lib (name IRFZ44N)(type Legacy)(uri ${KIPRJMOD}/libraries/IRFZ44N.lib)(options "")(descr ""))
+  (lib (name Adjustable-Load)(type Legacy)(uri ${KIPRJMOD}/libraries/Adjustable-Load.lib)(options "")(descr ""))
+  (lib (name Adjustable-Load-v1.1-rescue)(type Legacy)(uri ${KIPRJMOD}/Adjustable-Load-v1.1-rescue.lib)(options "")(descr ""))
+  (lib (name diy-modules)(type Legacy)(uri ${KIPRJMOD}/libraries/diy-modules.lib)(options "")(descr ""))
+)

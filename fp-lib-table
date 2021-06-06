@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name footprints)(type KiCad)(uri ${KIPRJMOD}/footprints)(options "")(descr ""))
+  (lib (name diy-modules)(type Legacy)(uri ${KIPRJMOD}/footprints/diy-modules.mod)(options "")(descr ""))
+)
